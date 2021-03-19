@@ -8,7 +8,8 @@ https://dans7an.github.io/Simon-Game-Challenge.github.io/
 ![alt](demo.gif)
 
 ## How It's Made:
-Tech used: HTML, CSS, JavaScript, & Jquery
+### Tech used:
+HTML, CSS, JavaScript, & Jquery
 
 Here is a web version of the famous Simon game, the CPU generates random numbers that are converted to a sequence of colors. A user is supposed to click on the colors that the computer respectively displays in a sequence. 
 Try it out and see how far you can go
